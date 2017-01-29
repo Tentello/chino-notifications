@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jackson-jaxrs-base-2.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.8.1/54027efa3986541d4f87e8e6b85b6362072e2656/jackson-jaxrs-base-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
