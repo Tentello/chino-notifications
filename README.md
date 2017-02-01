@@ -3,6 +3,14 @@
 Paste the following code in your build.gradle file
 
 ```groovy
+android {
+    ...
+    packagingOptions {
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+    }
+}
+
 allprojects {
 	repositories {
 		...
